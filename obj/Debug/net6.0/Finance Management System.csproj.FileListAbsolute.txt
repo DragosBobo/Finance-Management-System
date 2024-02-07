@@ -28,3 +28,11 @@ C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Managemen
 C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.pdb
 C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.genruntimeconfig.cache
 C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\ref\Finance Management System.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.sourcelink.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.csproj.CopyComplete
