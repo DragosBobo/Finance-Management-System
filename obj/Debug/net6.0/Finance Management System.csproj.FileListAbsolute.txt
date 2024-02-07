@@ -1,0 +1,30 @@
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.staticwebassets.runtime.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.exe
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.deps.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.runtimeconfig.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\bin\Debug\net6.0\Finance Management System.pdb
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.AssemblyInfo.cs
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.RazorAssemblyInfo.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.RazorAssemblyInfo.cs
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets\msbuild.Finance Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Finance Management System.props
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finance Management System.props
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finance Management System.props
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\scopedcss\bundle\Finance Management System.styles.css
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\scopedcss\projectbundle\Finance Management System.bundle.scp.css
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\refint\Finance Management System.dll
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.pdb
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\Finance Management System.genruntimeconfig.cache
+C:\Users\drago\source\repos\Projects\Finance MAnagement System\Finance Management System\obj\Debug\net6.0\ref\Finance Management System.dll
